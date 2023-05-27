@@ -1,5 +1,5 @@
 {
-    "name": "react-portfolio",
+    "name": "pharmacy-finder",
     "version": "0.1.0",
     "private": true,
     "homepage": "https://fdgardon.github.io/my-app",
@@ -17,7 +17,11 @@
       "react-simple-typewriter": "^5.0.1",
       "sweetalert2": "^11.4.38",
       "web-vitals": "^2.1.4",
-      "google-map-react": "^2.2.1"
+      "google-map-react": "^2.2.1",
+      "@types/enzyme": "^3.10.13",
+      "@types/enzyme-adapter-react-16": "^1.0.6",
+      "enzyme": "^3.11.0"
+     
     },
     "scripts": {
       "predeploy": "npm run build",

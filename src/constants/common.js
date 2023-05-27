@@ -1,5 +1,5 @@
 export const GOOGLE_MAP_API_KEY = process.env.REACT_APP_GOOGLE_API_KEY
-export const MAX_RADIUS = "500"
+export const MAX_RADIUS = "10000"
 export const AVAILABLE_PLACE_TYPES = [
   {
     label: "ATM",
@@ -19,7 +19,7 @@ export const AVAILABLE_PLACE_TYPES = [
   },
   {
     label: "Pharmacy",
-    value: "pharmacy"
+    value: "Pharmacy"
   },
   {
     label: "Train Station",
