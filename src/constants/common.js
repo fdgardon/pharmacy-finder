@@ -19,10 +19,14 @@ export const AVAILABLE_PLACE_TYPES = [
   },
   {
     label: "Pharmacy",
-    value: "Pharmacy"
+    value: "pharmacy"
   },
   {
     label: "Train Station",
     value: "train_station"
-  }
+  },
+  {
+    label: "Hospital",
+    value: "hospital"
+  },
 ]
